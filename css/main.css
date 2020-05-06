@@ -1,0 +1,131 @@
+body {
+	background-color: #96d1c7;
+	margin: 0;
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+	color: #004445;
+}
+
+h1 {
+	font-size: 380%;
+	margin-top: 150px;
+	font-family: 'Courgette', cursive;
+	color: #004445;	
+}
+
+h2{
+	font-size: 250%;
+	font-family: 'Courgette', cursive;
+	color: #004445;	
+}
+
+h3{
+	font-size: 125%;
+	}
+
+hr{
+	border-style: dotted none none;
+	border-color: #DBDBDB;
+	border-width: 6px;
+	width: 10%;
+}
+
+
+.container-top{
+	background-color: #EE8572;
+	position: relative;
+	padding-top: 20px;
+}
+.profil1{
+	position: absolute;
+	left: 3%;
+	border-radius: 100%;
+	border:3px solid #004445;
+}
+.profil2{
+	border-radius: 100%;
+	padding:5px;
+	border:5px solid #004445;
+	background-color:#96d1c7;
+}
+
+
+.contact {
+	padding-top: 30px;
+	font-size: 15px;
+	float: right;
+	padding-right:30px;
+	word-spacing: 3px;
+	font-weight:bold;
+}
+
+span a{
+	color: #16817a;
+	margin: 10px;
+}
+
+.gambar{
+	padding-top:80px;
+}
+
+.container-middle{
+
+	padding-top: 30px;
+	margin: auto;
+	width: 60%;
+	line-height: 2;
+
+
+}
+.isi{
+	padding-top: 25px;
+	
+}
+
+.isi-konten{
+	margin: 100px auto 100px auto;
+	text-align: left;
+	line-height: 2;
+	text-align: justify;
+	
+}
+.sekolah{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+}
+.organisasi{
+	width: 30%;
+	float: right;
+	margin-left: 30px;
+}
+.buku{
+	width: 30%;
+	float: left;
+	margin-right: 30px;
+}
+
+.container-bottom{
+	background-color: #EE8572;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+.footer a{
+	color: #16817a;
+	font-size: 15px;
+	margin: 10px;
+	word-spacing: 5px;
+	font-weight:bold;
+	float: center;
+}
+.footer-link a{
+	color: #323232;
+	font-size: 15px;
+	margin: 30px;
+	word-spacing: 5px;
+	font-weight:bold;
+	float: center;
+
+}
